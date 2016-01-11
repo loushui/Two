@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0/0.iml" filepath="$PROJECT_DIR$/0/0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialPreference/MaterialPreference.iml" filepath="$PROJECT_DIR$/MaterialPreference/MaterialPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two.iml" filepath="$PROJECT_DIR$/Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ashop/ashop.iml" filepath="$PROJECT_DIR$/ashop/ashop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/library_fab/library_fab.iml" filepath="$PROJECT_DIR$/libraries/library_fab/library_fab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/mediapicker/mediapicker.iml" filepath="$PROJECT_DIR$/libraries/mediapicker/mediapicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/libraries/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm-library/orm-library.iml" filepath="$PROJECT_DIR$/orm-library/orm-library.iml" />
+    </modules>
+  </component>
+</project>

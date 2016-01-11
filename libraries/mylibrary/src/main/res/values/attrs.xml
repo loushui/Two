@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Material Ripple -->
+    <declare-styleable name="MaterialRippleLayout">
+        <attr name="mrl_rippleColor" format="color" localization="suggested" />
+        <attr name="mrl_rippleDimension" format="dimension" localization="suggested" />
+        <attr name="mrl_rippleOverlay" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleAlpha" format="float" localization="suggested" />
+        <attr name="mrl_rippleDuration" format="integer" localization="suggested" />
+        <attr name="mrl_rippleFadeDuration" format="integer" localization="suggested" />
+        <attr name="mrl_rippleHover" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleBackground" format="color" localization="suggested" />
+        <attr name="mrl_rippleDelayClick" format="boolean" localization="suggested" />
+        <attr name="mrl_ripplePersistent" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleInAdapter" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleRoundedCorners" format="dimension" localization="suggested" />
+    </declare-styleable>
+
+    <!--进度条-->
+    <declare-styleable name="ProgressWheel">
+        <attr name="pw_progressIndeterminate" format="boolean" />
+        <attr name="pw_barColor" format="color" />
+        <attr name="pw_rimColor" format="color" />
+        <attr name="pw_rimWidth" format="dimension" />
+        <attr name="pw_spinSpeed" format="float" />
+        <attr name="pw_barSpinCycleTime" format="integer" />
+        <attr name="pw_circleRadius" format="dimension" />
+        <attr name="pw_fillRadius" format="boolean" />
+        <attr name="pw_barWidth" format="dimension" />
+        <attr name="pw_linearProgress" format="boolean" />
+    </declare-styleable>
+
+    <!--圆形图片-->
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_width" format="dimension" />
+        <attr name="civ_color" format="color" />
+        <attr name="civ_overlay" format="boolean" />
+        <attr name="civ_bg" format="color" />
+    </declare-styleable>
+
+    <!--圆角图片-->
+    <declare-styleable name="RoundedImageView">
+        <attr name="riv_left_top_corner_radius" format="dimension" />
+        <attr name="riv_right_top_corner_radius" format="dimension" />
+        <attr name="riv_left_bottom_corner_radius" format="dimension" />
+        <attr name="riv_right_bottom_corner_radius" format="dimension" />
+        <attr name="riv_border_width" format="dimension" />
+        <attr name="riv_border_color" format="color" />
+        <attr name="riv_oval" format="boolean" />
+        <attr name="android:scaleType" />
+    </declare-styleable>
+</resources>
