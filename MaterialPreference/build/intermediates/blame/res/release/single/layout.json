@@ -80,12 +80,12 @@
         "source": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\Code\\GitHub\\Two\\MaterialPreference\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
