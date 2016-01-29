@@ -9,16 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/0note" />
-            <option value="$PROJECT_DIR$/MaterialPreference" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/0demo" />
             <option value="$PROJECT_DIR$/app1" />
             <option value="$PROJECT_DIR$/ashop" />
             <option value="$PROJECT_DIR$/libraries" />
             <option value="$PROJECT_DIR$/libraries/library_fab" />
             <option value="$PROJECT_DIR$/libraries/mediapicker" />
             <option value="$PROJECT_DIR$/libraries/mylibrary" />
-            <option value="$PROJECT_DIR$/orm-library" />
           </set>
         </option>
       </GradleProjectSettings>

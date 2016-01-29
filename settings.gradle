@@ -1,1 +1,2 @@
-include ':libraries:mediapicker', ':libraries:mylibrary', ':libraries:library_fab', ':ashop', ':app1', ':MaterialPreference', ':orm-library', ':app', ':0note'
+include ':libraries:mediapicker', ':libraries:mylibrary', ':libraries:library_fab'
+include ':app1', ':0demo', ':ashop'
